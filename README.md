@@ -46,9 +46,7 @@ This lab implements **secure cross-account access**:
 
 ---
 
-## Diagram
-
-Flow: Dev User → AssumeRole → Security Account Role → Allowed Actions (List S3) / Blocked Actions (Delete S3)  
+## Diagram 
 
 ![Domain 4 Architecture](diagram.png)  
 
