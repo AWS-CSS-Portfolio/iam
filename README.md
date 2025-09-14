@@ -48,7 +48,7 @@ This lab implements **secure cross-account access**:
 
 ## Diagram 
 
-![Domain 4 Architecture](diagram.png)  
+![Domain 4 Architecture](diagram2.png)  
 
 ---
 
